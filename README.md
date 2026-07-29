@@ -14,7 +14,7 @@
 
 🔥 Passionate about creating scalable and user-friendly mobile apps.
 
-🌱 Currently learning Java, Spring Boot, Backend Development & AI
+🌱 Currently learning Java, Spring Boot, Backend Development & AI.
 
 🧩 Problem Solver who enjoys turning ideas into applications
 
