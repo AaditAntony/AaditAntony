@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me 
 
-📱 Flutter Developer with professional industry experience
+📱 Flutter Developer with professional industry experience.
 
 🎓 Technical Trainer helping students build real-world Flutter applications
 
