@@ -10,7 +10,7 @@
 
 📱 Flutter Developer with professional industry experience.
 
-🎓 Technical Trainer helping students build real-world Flutter applications
+🎓 Technical Trainer helping students build real-world Flutter applications.
 
 🔥 Passionate about creating scalable and user-friendly mobile apps
 
