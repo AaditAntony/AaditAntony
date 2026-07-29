@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aadit Antonyd
+# Hi there 👋, I'm Aadit Antony
 
 ### 🚀 Flutter Developer | Technical Trainer | Mobile App Developer
 
