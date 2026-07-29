@@ -12,7 +12,7 @@
 
 🎓 Technical Trainer helping students build real-world Flutter applications.
 
-🔥 Passionate about creating scalable and user-friendly mobile apps
+🔥 Passionate about creating scalable and user-friendly mobile apps.
 
 🌱 Currently learning Java, Spring Boot, Backend Development & AI
 
